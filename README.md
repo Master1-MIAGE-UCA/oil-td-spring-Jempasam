@@ -15,3 +15,5 @@ La classe [DiceAPI](src/main/kotlin/jempasam/springtd3/dice/DiceAPI.kt) est un c
 `DELETE` `/diceLogs`: Supprimer l'historique des lancés grâce au `DiceRepository`.
 ## Etape 6: Swagger
 L'API est documentée grâce à Swagger. Vous pouvez accéder à la documentation sur [http://localhost:8081/swagger-ui/index.html#](http://localhost:8081/swagger-ui/index.html#).
+## Autres informations
+Le projet est programmé en Kotlin et donc ne nécessite pas Lombok.
